@@ -1,0 +1,16 @@
+{
+  "jupyter.kernels.filter": [
+    {
+      "path": "/Users/tatelarkin/.pyenv/versions/3.8.10/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/tatelarkin/.pyenv/versions/3.9.1/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/local/bin/python",
+      "type": "pythonEnvironment"
+    }
+  ]
+}
